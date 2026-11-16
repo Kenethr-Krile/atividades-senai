@@ -9,6 +9,10 @@ out/
 *.war
 *.ear
 
+# --- JVM Diagnostic Logs ---
+hs_err_pid*
+*.log
+
 # --- IDE Specific Files ---
 
 # IntelliJ IDEA
@@ -34,3 +38,5 @@ bin/
 # --- Operating System Junk ---
 .DS_Store
 Thumbs.db
+Desktop.ini
+._*
